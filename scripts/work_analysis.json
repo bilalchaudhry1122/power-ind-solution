@@ -1,0 +1,511 @@
+{
+  "images": [
+    {
+      "filename": "20180228_210811.jpg.jpeg",
+      "size": 1983016,
+      "width": 4160,
+      "height": 2336,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "ba037c341e9adae9a19ec09fe6d289e6"
+    },
+    {
+      "filename": "20180228_210826.jpg.jpeg",
+      "size": 1952092,
+      "width": 2336,
+      "height": 4160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "1c712f4ffd9ba8a79a42763ef3139f2a"
+    },
+    {
+      "filename": "20180228_210905.jpg.jpeg",
+      "size": 3174312,
+      "width": 4160,
+      "height": 2336,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "256d6d7b66a11ecf0f77cb0e47a84e0c"
+    },
+    {
+      "filename": "20180228_210915.jpg.jpeg",
+      "size": 2878248,
+      "width": 4160,
+      "height": 2336,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "427e76b193b27ed9151d9de53f06163f"
+    },
+    {
+      "filename": "20180228_211228.jpg.jpeg",
+      "size": 2243681,
+      "width": 2336,
+      "height": 4160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "78d383a96415213a1861a072d4656546"
+    },
+    {
+      "filename": "20180401_183034.jpg.jpeg",
+      "size": 2474920,
+      "width": 4160,
+      "height": 2336,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "1b5edd9aa44651db7867b0b4dd849e7f"
+    },
+    {
+      "filename": "20180401_183037.jpg.jpeg",
+      "size": 2822184,
+      "width": 4160,
+      "height": 2336,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "2b4ca9acf25ad078eb47ad65eac01b7f"
+    },
+    {
+      "filename": "20180401_190734.jpg.jpeg",
+      "size": 2945832,
+      "width": 4160,
+      "height": 2336,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "f94efb7f3c0574c1153253c171042e12"
+    },
+    {
+      "filename": "20180401_190737.jpg.jpeg",
+      "size": 2939816,
+      "width": 4160,
+      "height": 2336,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "a2325db1a050dd62c7800a3ea45dc4e7"
+    },
+    {
+      "filename": "20180401_190745.jpg.jpeg",
+      "size": 3085608,
+      "width": 4160,
+      "height": 2336,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "ab08f6050e3943953afdcffd57d70fed"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.09 PM (1).jpeg",
+      "size": 304362,
+      "width": 1200,
+      "height": 1600,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "8791f3259457dd6ea74faeba49a27eb8"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.09 PM (2).jpeg",
+      "size": 281598,
+      "width": 1200,
+      "height": 1600,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "589ee12ffbfe641c6644ce4b5ba37a10"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.09 PM (3).jpeg",
+      "size": 286876,
+      "width": 1200,
+      "height": 1600,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "39b9ebc224a39e6fe5073d8d82b74c38"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.09 PM (4).jpeg",
+      "size": 430342,
+      "width": 1200,
+      "height": 1600,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "4287749f83d70e1161fb5794aabc6b91"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.09 PM (5).jpeg",
+      "size": 207612,
+      "width": 900,
+      "height": 1600,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "32d49339689802b4b1fccfd0a4e7531a"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.09 PM (6).jpeg",
+      "size": 126848,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "056b8611289899ac38850968e37771f0"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.09 PM.jpeg",
+      "size": 639148,
+      "width": 1200,
+      "height": 1600,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "3b257217b36343161aadbfc4a899e032"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (1).jpeg",
+      "size": 91981,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "a3f99485370788dc5699d4fbf37ef23f"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (10).jpeg",
+      "size": 103481,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "05107d9eadd6f86420520907af8644d5"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (12).jpeg",
+      "size": 72491,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "4408acac0cf4279bcb0a3b36465c7d8c"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (14).jpeg",
+      "size": 106273,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "a6ba535853e1228118499a3112b7cbff"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (16).jpeg",
+      "size": 103209,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "b0a0eb314bb4796875fdd935f74fe729"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (18).jpeg",
+      "size": 147591,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "c1ad3f434ba6b917da541a95c5981fc3"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (19).jpeg",
+      "size": 110752,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "e1419db11ca47f1e3d0700538486926c"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (2).jpeg",
+      "size": 88945,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "dbb6eadd7e30319c2e5e6a16a8a23b0b"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (20).jpeg",
+      "size": 151626,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "502c89740e9817ff574055bd5850274f"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (21).jpeg",
+      "size": 140162,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "8fd315586271d7902b22ec609c41bd08"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (22).jpeg",
+      "size": 111734,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "b0c0a07ddfc259ec60a99031843283ee"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (23).jpeg",
+      "size": 113045,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "76442ea79525355493beb04ffa445402"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (24).jpeg",
+      "size": 136385,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "c77bbce11ea564bfbb1b321e74cc3f81"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (25).jpeg",
+      "size": 136407,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "47be863f45a3d34dfc25f421e498e4da"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (26).jpeg",
+      "size": 147167,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "f69ee584d043f5ba590bc90ab40cc949"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (27).jpeg",
+      "size": 147767,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "faa7d0aa9209d7e6a5ffb0a45e410f27"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (28).jpeg",
+      "size": 131859,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "ea2f42bddd462f5462f8a4da58408e45"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (29).jpeg",
+      "size": 113242,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "a518725e2807a68e813d132939baedf9"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (3).jpeg",
+      "size": 81963,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "d665f0eee69182c2cee3ace1aed08e88"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (30).jpeg",
+      "size": 103142,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "d58aac568cae42eff42bf84e4b9c31d5"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (31).jpeg",
+      "size": 118002,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "ffd93b1d639eaf46053526fac60bfd7f"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (32).jpeg",
+      "size": 113818,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "234c486849212fadb29c1f6ecdf2470d"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (33).jpeg",
+      "size": 117402,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "857a0466f60375b93f56154ef4fd132d"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (34).jpeg",
+      "size": 119536,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "9a3d0413fd8ccf0cebd9e09a9071452a"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (35).jpeg",
+      "size": 118065,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "ace759ccf97e5d8e3d11058b9a96f3b2"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (36).jpeg",
+      "size": 105981,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "33d6733b6d86e3ebace1960d2d273c59"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (37).jpeg",
+      "size": 119651,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "8e5f689ff5e64db272c136908b75b194"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (38).jpeg",
+      "size": 28576,
+      "width": 288,
+      "height": 512,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "563db1c567c76c4ef5bc1804d5eb5e52"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (4).jpeg",
+      "size": 82047,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "8ce020d3a940a369780973eb6499c922"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (40).jpeg",
+      "size": 25218,
+      "width": 288,
+      "height": 512,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "4478d50830d7060115c07723a2e37003"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (41).jpeg",
+      "size": 76905,
+      "width": 585,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "7c9d87bcaf5d9bb2e4ee17ef3f8a0e9c"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (42).jpeg",
+      "size": 197200,
+      "width": 585,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "3babf21b4a3a2f20e83df1151c083c1d"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (43).jpeg",
+      "size": 147816,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "e82600d11605878632870097022813c7"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (5).jpeg",
+      "size": 81517,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "b00d7842190d30b63a2e3018f50744a3"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (6).jpeg",
+      "size": 118797,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "3ea077da0baed85c0331175ac1f9258a"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (7).jpeg",
+      "size": 107819,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "b01d86343cef0a37a4dfdd91813e6853"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (8).jpeg",
+      "size": 99652,
+      "width": 1040,
+      "height": 780,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "7e1e3966a4ae80754ef77214a5bf3c43"
+    },
+    {
+      "filename": "WhatsApp Image 2026-11-08 at 5.25.10 PM (9).jpeg",
+      "size": 70427,
+      "width": 780,
+      "height": 1040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "hash": "3abd52f9823b06ce9ee7cad7467138cc"
+    }
+  ],
+  "videos": [
+    {
+      "filename": "WhatsApp Video 2026-11-08 at 5.25.10 PM (1).mp4",
+      "size": 3804922,
+      "hash": "fd32184783020001698d31ccd47fbbe6"
+    },
+    {
+      "filename": "WhatsApp Video 2026-11-08 at 5.25.10 PM.mp4",
+      "size": 1003256,
+      "hash": "28bc9c91c3fcf5f35282d146028ec3c2"
+    }
+  ]
+}

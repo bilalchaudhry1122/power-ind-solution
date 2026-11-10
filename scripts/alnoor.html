@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/alnoor.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Al-Noor Sugar Mills</title>
+
+    <!-- Preload critical fonts and assets -->
+    <link rel="preload" href="/fonts/Shree Devanagari 714.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="preload" href="/assets/header/al-noor black logo.png" as="image" />
+
+    <!-- Preload first hero video so it starts buffering before React boots -->
+    <link rel="preload" as="video"
+      href="https://res.cloudinary.com/dereplqra/video/upload/f_auto/v1758111204/headervideo3_ghoua2.webm"
+      type="video/webm" />
+
+    <style>
+      /* Prevent FOUC */
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #fff;
+      }
+
+      #root {
+        visibility: hidden;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+      }
+
+      #root.app-ready {
+        visibility: visible;
+        opacity: 1;
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-CFelAzPI.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-C89motB2.css">
+  </head>
+  <body>
+    <!-- Only React root -->
+    <div id="root"></div>
+
+    <script>
+      // Show app when React dispatches event
+      window.addEventListener("app-ready", () => {
+        document.getElementById("root")?.classList.add("app-ready");
+      });
+
+      // Fallback: reveal after max wait
+      setTimeout(() => {
+        document.getElementById("root")?.classList.add("app-ready");
+      }, 3000);
+    </script>
+
+  </body>
+</html>

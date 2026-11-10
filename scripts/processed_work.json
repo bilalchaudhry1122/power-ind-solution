@@ -1,0 +1,425 @@
+{
+  "images": [
+    {
+      "id": "work-01",
+      "originalFile": "20180228_210826.jpg.jpeg",
+      "webPath": "/images/our-work/work-01.webp",
+      "thumbPath": "/images/our-work/thumbs/work-01-thumb.webp",
+      "origWidth": 2336,
+      "origHeight": 4160,
+      "finalSizeKB": 150,
+      "thumbSizeKB": 35,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-02",
+      "originalFile": "20180228_210905.jpg.jpeg",
+      "webPath": "/images/our-work/work-02.webp",
+      "thumbPath": "/images/our-work/thumbs/work-02-thumb.webp",
+      "origWidth": 4160,
+      "origHeight": 2336,
+      "finalSizeKB": 425,
+      "thumbSizeKB": 82,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-03",
+      "originalFile": "20180228_210915.jpg.jpeg",
+      "webPath": "/images/our-work/work-03.webp",
+      "thumbPath": "/images/our-work/thumbs/work-03-thumb.webp",
+      "origWidth": 4160,
+      "origHeight": 2336,
+      "finalSizeKB": 364,
+      "thumbSizeKB": 69,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-04",
+      "originalFile": "20180228_211228.jpg.jpeg",
+      "webPath": "/images/our-work/work-04.webp",
+      "thumbPath": "/images/our-work/thumbs/work-04-thumb.webp",
+      "origWidth": 2336,
+      "origHeight": 4160,
+      "finalSizeKB": 180,
+      "thumbSizeKB": 38,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-05",
+      "originalFile": "20180401_183034.jpg.jpeg",
+      "webPath": "/images/our-work/work-05.webp",
+      "thumbPath": "/images/our-work/thumbs/work-05-thumb.webp",
+      "origWidth": 4160,
+      "origHeight": 2336,
+      "finalSizeKB": 237,
+      "thumbSizeKB": 54,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-06",
+      "originalFile": "20180401_190745.jpg.jpeg",
+      "webPath": "/images/our-work/work-06.webp",
+      "thumbPath": "/images/our-work/thumbs/work-06-thumb.webp",
+      "origWidth": 4160,
+      "origHeight": 2336,
+      "finalSizeKB": 304,
+      "thumbSizeKB": 35,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-07",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.09 PM (1).jpeg",
+      "webPath": "/images/our-work/work-07.webp",
+      "thumbPath": "/images/our-work/thumbs/work-07-thumb.webp",
+      "origWidth": 1200,
+      "origHeight": 1600,
+      "finalSizeKB": 163,
+      "thumbSizeKB": 19,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-08",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.09 PM (4).jpeg",
+      "webPath": "/images/our-work/work-08.webp",
+      "thumbPath": "/images/our-work/thumbs/work-08-thumb.webp",
+      "origWidth": 1200,
+      "origHeight": 1600,
+      "finalSizeKB": 249,
+      "thumbSizeKB": 62,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-09",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.09 PM (5).jpeg",
+      "webPath": "/images/our-work/work-09.webp",
+      "thumbPath": "/images/our-work/thumbs/work-09-thumb.webp",
+      "origWidth": 900,
+      "origHeight": 1600,
+      "finalSizeKB": 73,
+      "thumbSizeKB": 22,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-10",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.09 PM (6).jpeg",
+      "webPath": "/images/our-work/work-10.webp",
+      "thumbPath": "/images/our-work/thumbs/work-10-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 143,
+      "thumbSizeKB": 77,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-11",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.09 PM.jpeg",
+      "webPath": "/images/our-work/work-11.webp",
+      "thumbPath": "/images/our-work/thumbs/work-11-thumb.webp",
+      "origWidth": 1200,
+      "origHeight": 1600,
+      "finalSizeKB": 149,
+      "thumbSizeKB": 48,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-12",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (1).jpeg",
+      "webPath": "/images/our-work/work-12.webp",
+      "thumbPath": "/images/our-work/thumbs/work-12-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 99,
+      "thumbSizeKB": 55,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-13",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (10).jpeg",
+      "webPath": "/images/our-work/work-13.webp",
+      "thumbPath": "/images/our-work/thumbs/work-13-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 121,
+      "thumbSizeKB": 60,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-14",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (12).jpeg",
+      "webPath": "/images/our-work/work-14.webp",
+      "thumbPath": "/images/our-work/thumbs/work-14-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 65,
+      "thumbSizeKB": 33,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-15",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (14).jpeg",
+      "webPath": "/images/our-work/work-15.webp",
+      "thumbPath": "/images/our-work/thumbs/work-15-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 113,
+      "thumbSizeKB": 63,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-16",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (16).jpeg",
+      "webPath": "/images/our-work/work-16.webp",
+      "thumbPath": "/images/our-work/thumbs/work-16-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 111,
+      "thumbSizeKB": 59,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-17",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (18).jpeg",
+      "webPath": "/images/our-work/work-17.webp",
+      "thumbPath": "/images/our-work/thumbs/work-17-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 177,
+      "thumbSizeKB": 91,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-18",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (2).jpeg",
+      "webPath": "/images/our-work/work-18.webp",
+      "thumbPath": "/images/our-work/thumbs/work-18-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 88,
+      "thumbSizeKB": 55,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-19",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (20).jpeg",
+      "webPath": "/images/our-work/work-19.webp",
+      "thumbPath": "/images/our-work/thumbs/work-19-thumb.webp",
+      "origWidth": 780,
+      "origHeight": 1040,
+      "finalSizeKB": 182,
+      "thumbSizeKB": 103,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-20",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (21).jpeg",
+      "webPath": "/images/our-work/work-20.webp",
+      "thumbPath": "/images/our-work/thumbs/work-20-thumb.webp",
+      "origWidth": 780,
+      "origHeight": 1040,
+      "finalSizeKB": 160,
+      "thumbSizeKB": 87,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-21",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (22).jpeg",
+      "webPath": "/images/our-work/work-21.webp",
+      "thumbPath": "/images/our-work/thumbs/work-21-thumb.webp",
+      "origWidth": 780,
+      "origHeight": 1040,
+      "finalSizeKB": 122,
+      "thumbSizeKB": 63,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-22",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (23).jpeg",
+      "webPath": "/images/our-work/work-22.webp",
+      "thumbPath": "/images/our-work/thumbs/work-22-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 125,
+      "thumbSizeKB": 68,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-23",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (24).jpeg",
+      "webPath": "/images/our-work/work-23.webp",
+      "thumbPath": "/images/our-work/thumbs/work-23-thumb.webp",
+      "origWidth": 780,
+      "origHeight": 1040,
+      "finalSizeKB": 145,
+      "thumbSizeKB": 89,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-24",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (25).jpeg",
+      "webPath": "/images/our-work/work-24.webp",
+      "thumbPath": "/images/our-work/thumbs/work-24-thumb.webp",
+      "origWidth": 780,
+      "origHeight": 1040,
+      "finalSizeKB": 147,
+      "thumbSizeKB": 80,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-25",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (26).jpeg",
+      "webPath": "/images/our-work/work-25.webp",
+      "thumbPath": "/images/our-work/thumbs/work-25-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 154,
+      "thumbSizeKB": 85,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-26",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (29).jpeg",
+      "webPath": "/images/our-work/work-26.webp",
+      "thumbPath": "/images/our-work/thumbs/work-26-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 115,
+      "thumbSizeKB": 63,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-27",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (3).jpeg",
+      "webPath": "/images/our-work/work-27.webp",
+      "thumbPath": "/images/our-work/thumbs/work-27-thumb.webp",
+      "origWidth": 780,
+      "origHeight": 1040,
+      "finalSizeKB": 80,
+      "thumbSizeKB": 49,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-28",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (30).jpeg",
+      "webPath": "/images/our-work/work-28.webp",
+      "thumbPath": "/images/our-work/thumbs/work-28-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 104,
+      "thumbSizeKB": 52,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-29",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (31).jpeg",
+      "webPath": "/images/our-work/work-29.webp",
+      "thumbPath": "/images/our-work/thumbs/work-29-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 126,
+      "thumbSizeKB": 72,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-30",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (33).jpeg",
+      "webPath": "/images/our-work/work-30.webp",
+      "thumbPath": "/images/our-work/thumbs/work-30-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 120,
+      "thumbSizeKB": 66,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-31",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (38).jpeg",
+      "webPath": "/images/our-work/work-31.webp",
+      "thumbPath": "/images/our-work/thumbs/work-31-thumb.webp",
+      "origWidth": 288,
+      "origHeight": 512,
+      "finalSizeKB": 54,
+      "thumbSizeKB": 28,
+      "isEnhanced": true
+    },
+    {
+      "id": "work-32",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (40).jpeg",
+      "webPath": "/images/our-work/work-32.webp",
+      "thumbPath": "/images/our-work/thumbs/work-32-thumb.webp",
+      "origWidth": 288,
+      "origHeight": 512,
+      "finalSizeKB": 47,
+      "thumbSizeKB": 24,
+      "isEnhanced": true
+    },
+    {
+      "id": "work-33",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (41).jpeg",
+      "webPath": "/images/our-work/work-33.webp",
+      "thumbPath": "/images/our-work/thumbs/work-33-thumb.webp",
+      "origWidth": 585,
+      "origHeight": 1040,
+      "finalSizeKB": 50,
+      "thumbSizeKB": 17,
+      "isEnhanced": true
+    },
+    {
+      "id": "work-34",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (42).jpeg",
+      "webPath": "/images/our-work/work-34.webp",
+      "thumbPath": "/images/our-work/thumbs/work-34-thumb.webp",
+      "origWidth": 585,
+      "origHeight": 1040,
+      "finalSizeKB": 236,
+      "thumbSizeKB": 106,
+      "isEnhanced": true
+    },
+    {
+      "id": "work-35",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (43).jpeg",
+      "webPath": "/images/our-work/work-35.webp",
+      "thumbPath": "/images/our-work/thumbs/work-35-thumb.webp",
+      "origWidth": 780,
+      "origHeight": 1040,
+      "finalSizeKB": 173,
+      "thumbSizeKB": 92,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-36",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (6).jpeg",
+      "webPath": "/images/our-work/work-36.webp",
+      "thumbPath": "/images/our-work/thumbs/work-36-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 139,
+      "thumbSizeKB": 75,
+      "isEnhanced": false
+    },
+    {
+      "id": "work-37",
+      "originalFile": "WhatsApp Image 2026-11-08 at 5.25.10 PM (7).jpeg",
+      "webPath": "/images/our-work/work-37.webp",
+      "thumbPath": "/images/our-work/thumbs/work-37-thumb.webp",
+      "origWidth": 1040,
+      "origHeight": 780,
+      "finalSizeKB": 124,
+      "thumbSizeKB": 63,
+      "isEnhanced": false
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-1",
+      "originalFile": "WhatsApp Video 2026-11-08 at 5.25.10 PM (1).mp4",
+      "webPath": "/videos/our-work/work-video-1.mp4",
+      "sizeMB": "3.6"
+    },
+    {
+      "id": "vid-2",
+      "originalFile": "WhatsApp Video 2026-11-08 at 5.25.10 PM.mp4",
+      "webPath": "/videos/our-work/work-video-2.mp4",
+      "sizeMB": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" fill="none">
+    
+    <g transform="translate(14, 15)">
+      <circle cx="25" cy="25" r="23" fill="#166534" stroke="#86EFAC" stroke-width="2"/>
+      <path d="M17 33 C17 21 25 15 25 15 C25 15 33 21 33 33" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="25" cy="30" r="3" fill="#86EFAC"/>
+    </g>
+    <text x="72" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="900" fill="#0B1B3D" letter-spacing="-0.3">NEW TANDO ALLAH YAR</text>
+    <text x="72" y="46" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" fill="#16A34A" letter-spacing="1">SUGAR MILLS</text>
+    <text x="72" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="8" font-weight="600" fill="#64748B">RASHIDABAD • SINDH</text>
+  </svg>
